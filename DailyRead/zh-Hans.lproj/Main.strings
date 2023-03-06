@@ -1,0 +1,96 @@
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "0IG-gV-mkw"; */
+"0IG-gV-mkw.title" = "主页";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "0w4-6N-mYw"; */
+"0w4-6N-mYw.configuration.title" = "登陆";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0w4-6N-mYw"; */
+"0w4-6N-mYw.normalTitle" = "登陆";
+
+/* Class = "UITextField"; placeholder = "NickName"; ObjectID = "4My-QX-jNS"; */
+"4My-QX-jNS.placeholder" = "昵称";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "5xs-fD-40a"; */
+"5xs-fD-40a.placeholder" = "密码";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "8f6-o3-wsF"; */
+"8f6-o3-wsF.configuration.title" = "注册";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8f6-o3-wsF"; */
+"8f6-o3-wsF.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "G3c-nx-aex"; */
+"G3c-nx-aex.text" = "密码";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "KvC-Kf-1iE"; */
+"KvC-Kf-1iE.placeholder" = "用户名";
+
+/* Class = "UIButton"; configuration.title = "今日の内容を作りましょう"; ObjectID = "P3X-a2-sEV"; */
+"P3X-a2-sEV.configuration.title" = "发布文章和录音";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "P3X-a2-sEV"; */
+"P3X-a2-sEV.normalTitle" = "发布文章和录音";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "PHT-Mb-Tb9"; */
+"PHT-Mb-Tb9.text" = "用户名";
+
+/* Class = "UITabBarItem"; title = "My Profile"; ObjectID = "RXR-Nr-ujd"; */
+"RXR-Nr-ujd.title" = "我的";
+
+/* Class = "UIButton"; configuration.title = "過去の内容を照会"; ObjectID = "Reh-m5-j3a"; */
+"Reh-m5-j3a.configuration.title" = "查看我发布的内容";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Reh-m5-j3a"; */
+"Reh-m5-j3a.normalTitle" = "查看我发布的内容";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "ZQo-bT-O1l"; */
+"ZQo-bT-O1l.text" = "密码";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "Zkd-8P-rDc"; */
+"Zkd-8P-rDc.text" = "用户名";
+
+/* Class = "UIButton"; configuration.title = "投稿する"; ObjectID = "jNC-rB-uYl"; */
+"jNC-rB-uYl.configuration.title" = "投稿";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jNC-rB-uYl"; */
+"jNC-rB-uYl.normalTitle" = "投稿";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ldU-Az-UFQ"; */
+"ldU-Az-UFQ.placeholder" = "密码";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "lwM-ub-DpW"; */
+"lwM-ub-DpW.placeholder" = "用户名";
+
+/* Class = "UILabel"; text = "NickName"; ObjectID = "mP9-KB-gWn"; */
+"mP9-KB-gWn.text" = "昵称";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "sqf-FD-DFt"; */
+"sqf-FD-DFt.configuration.title" = "注册";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sqf-FD-DFt"; */
+"sqf-FD-DFt.normalTitle" = "注册";
+
+/* Class = "UIButton"; configuration.title = "録音する"; ObjectID = "y9n-zj-VMy"; */
+"y9n-zj-VMy.configuration.title" = "录音";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "y9n-zj-VMy"; */
+"y9n-zj-VMy.normalTitle" = "录音";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "yG2-6W-s0s"; */
+"yG2-6W-s0s.configuration.title" = "退出";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yG2-6W-s0s"; */
+"yG2-6W-s0s.normalTitle" = "退出";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "A3F-da-abg"; */
+"A3F-da-abg.normalTitle" = "";
+
+"A1Z-In-9Ug.configuration.title" = "取消";
+
+"A1Z-In-9Ug.normalTitle" = "取消";
+
+"3tV-ay-XeY.configuration.title" = "发送";
+
+"3tV-ay-XeY.normalTitle" = "发送";
+

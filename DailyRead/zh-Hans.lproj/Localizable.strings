@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  DailyRead
+
+  Created by 王克旭 on 2023/2/24.
+  
+*/
+"alert_logout" = "确定要退出登陆吗？";
+
+"button_yes" = "是";
+
+"button_no" = "否";
+
+"button_confirm" = "确定";
+
+"button_jump" = "跳转";
+
+"button_cancel" = "取消";
+
+"button_close" = "关闭";
+
+"alert_too_short" = "录音时间太短!";
+
+"hud_login" = "登陆中..";
+
+"hud_login_success" = "登陆成功";
+
+"hud_login_failure" = "登陆失败";
+
+"alert_username_empty" = "用户名不能为空！";
+
+"alert_password_empty" = "密码不能为空！";
+
+"alert_record_please" = "请开始录音！";
+
+"alert_mic_permission" = "请先打开麦克风权限";
+
+"hud_register" = "注册中..";
+
+"hud_register_success" = "注册成功";
+
+"hud_register_failure" = "注册失败";
+
+"hud_register_exist" = "用户名已存在!";
+
+"title_recording" = "录音中..";
+
+"button_record" = "录音";
+
+"alert_oversize" = "字数超出限制!";
+
+"hud_uploading" = "上传中..";
+
+"hud_upload_success" = "上传成功";
+
+"hud_upload_failure" = "上传失败，请重试！";
+
+"alert_convert_error" = "数据转换错误";
+
+"placeholder_input_size" = "请输入300个字以内";
+
+"placeholder_input_size50" = "请输入50个字以内";

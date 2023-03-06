@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  DailyRead
+
+  Created by 王克旭 on 2023/2/24.
+  
+*/
+"alert_logout" = "Go to logout now?";
+
+"button_yes" = "Yes";
+
+"button_no" = "No";
+
+"button_confirm" = "OK";
+
+"button_jump" = "open";
+
+"button_cancel" = "Cancel";
+
+"button_close" = "Close";
+
+"alert_too_short" = "More time for record!";
+
+"hud_login" = "Signing in..";
+
+"hud_login_success" = "Success";
+
+"hud_login_failure" = "Failed";
+
+"alert_username_empty" = "User name can not be empty!";
+
+"alert_password_empty" = "Password can not be empty!";
+
+"alert_record_please" = "Please record！";
+
+"alert_mic_permission" = "please open the micphone using permission!";
+
+"hud_register" = "Registering..";
+
+"hud_register_success" = "Success";
+
+"hud_register_failure" = "Failed";
+
+"hud_register_exist" = "Duplicate username!";
+
+"title_recording" = "Recording..";
+
+"button_record" = "Record";
+
+"alert_oversize" = "Character count over size!";
+
+"hud_uploading" = "Uploading..";
+
+"hud_upload_success" = "Success";
+
+"hud_upload_failure" = "Upload failed, please retry!";
+
+"alert_convert_error" = "Data convert error!";
+
+"placeholder_input_size" = "Please input less than 300 characters";
+
+"placeholder_input_size50" = "Please input less than 50 characters";
+
