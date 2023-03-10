@@ -10,6 +10,17 @@
 		444987EE4C4B6DF353F356BA /* Pods_DailyRead_DailyReadUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B7884962495A5706CEF167E /* Pods_DailyRead_DailyReadUITests.framework */; };
 		651B0F1638334CCBE0396800 /* Pods_DailyReadTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6528A736944B28CDE46AA19 /* Pods_DailyReadTests.framework */; };
 		BB38617159267B91668CA3AE /* Pods_DailyRead.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E6E74E919584F6E1BDCB4D5E /* Pods_DailyRead.framework */; };
+		EC0442F829BB060B001425BC /* MLLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0442ED29BB060B001425BC /* MLLabel.swift */; };
+		EC0442F929BB060B001425BC /* MLGlobalAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0442EE29BB060B001425BC /* MLGlobalAnimations.swift */; };
+		EC0442FA29BB060B001425BC /* MLAudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0442EF29BB060B001425BC /* MLAudioPlayer.swift */; };
+		EC0442FB29BB060B001425BC /* UIColor+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0442F029BB060B001425BC /* UIColor+Hex.swift */; };
+		EC0442FC29BB060B001425BC /* MLAudioPlayerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0442F129BB060B001425BC /* MLAudioPlayerManager.swift */; };
+		EC0442FD29BB060B001425BC /* ViewConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0442F229BB060B001425BC /* ViewConfiguration.swift */; };
+		EC0442FE29BB060B001425BC /* MLTrackPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0442F329BB060B001425BC /* MLTrackPlayerView.swift */; };
+		EC0442FF29BB060B001425BC /* MLAudioPlayerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0442F429BB060B001425BC /* MLAudioPlayerProtocol.swift */; };
+		EC04430029BB060B001425BC /* MLPlayerConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0442F529BB060B001425BC /* MLPlayerConfig.swift */; };
+		EC04430129BB060B001425BC /* MLPlayerButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0442F629BB060B001425BC /* MLPlayerButtonView.swift */; };
+		EC04430229BB060B001425BC /* MLRetryButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0442F729BB060B001425BC /* MLRetryButton.swift */; };
 		EC296B5C29AC3F7300B3FD6B /* TextViewAutoHeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC296B5B29AC3F7300B3FD6B /* TextViewAutoHeight.swift */; };
 		EC296B5E29AC6CBA00B3FD6B /* ReviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC296B5D29AC6CBA00B3FD6B /* ReviewViewController.swift */; };
 		EC296B6029AC7E6D00B3FD6B /* ReadRecordData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC296B5F29AC7E6D00B3FD6B /* ReadRecordData.swift */; };
@@ -74,6 +85,17 @@
 		C20EF3249BE5B23C4B69DE3E /* Pods-DailyRead.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DailyRead.release.xcconfig"; path = "Target Support Files/Pods-DailyRead/Pods-DailyRead.release.xcconfig"; sourceTree = "<group>"; };
 		D2689F872307D3F067573A8D /* Pods-Daily Read-Daily ReadUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Daily Read-Daily ReadUITests.debug.xcconfig"; path = "Target Support Files/Pods-Daily Read-Daily ReadUITests/Pods-Daily Read-Daily ReadUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		E6E74E919584F6E1BDCB4D5E /* Pods_DailyRead.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DailyRead.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC0442ED29BB060B001425BC /* MLLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MLLabel.swift; sourceTree = "<group>"; };
+		EC0442EE29BB060B001425BC /* MLGlobalAnimations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MLGlobalAnimations.swift; sourceTree = "<group>"; };
+		EC0442EF29BB060B001425BC /* MLAudioPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MLAudioPlayer.swift; sourceTree = "<group>"; };
+		EC0442F029BB060B001425BC /* UIColor+Hex.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Hex.swift"; sourceTree = "<group>"; };
+		EC0442F129BB060B001425BC /* MLAudioPlayerManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MLAudioPlayerManager.swift; sourceTree = "<group>"; };
+		EC0442F229BB060B001425BC /* ViewConfiguration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewConfiguration.swift; sourceTree = "<group>"; };
+		EC0442F329BB060B001425BC /* MLTrackPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MLTrackPlayerView.swift; sourceTree = "<group>"; };
+		EC0442F429BB060B001425BC /* MLAudioPlayerProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MLAudioPlayerProtocol.swift; sourceTree = "<group>"; };
+		EC0442F529BB060B001425BC /* MLPlayerConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MLPlayerConfig.swift; sourceTree = "<group>"; };
+		EC0442F629BB060B001425BC /* MLPlayerButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MLPlayerButtonView.swift; sourceTree = "<group>"; };
+		EC0442F729BB060B001425BC /* MLRetryButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MLRetryButton.swift; sourceTree = "<group>"; };
 		EC296B5B29AC3F7300B3FD6B /* TextViewAutoHeight.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextViewAutoHeight.swift; sourceTree = "<group>"; };
 		EC296B5D29AC6CBA00B3FD6B /* ReviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewViewController.swift; sourceTree = "<group>"; };
 		EC296B5F29AC7E6D00B3FD6B /* ReadRecordData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadRecordData.swift; sourceTree = "<group>"; };
@@ -174,6 +196,24 @@
 				A6528A736944B28CDE46AA19 /* Pods_DailyReadTests.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EC0442EC29BB060B001425BC /* AudioPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				EC0442ED29BB060B001425BC /* MLLabel.swift */,
+				EC0442EE29BB060B001425BC /* MLGlobalAnimations.swift */,
+				EC0442EF29BB060B001425BC /* MLAudioPlayer.swift */,
+				EC0442F029BB060B001425BC /* UIColor+Hex.swift */,
+				EC0442F129BB060B001425BC /* MLAudioPlayerManager.swift */,
+				EC0442F229BB060B001425BC /* ViewConfiguration.swift */,
+				EC0442F329BB060B001425BC /* MLTrackPlayerView.swift */,
+				EC0442F429BB060B001425BC /* MLAudioPlayerProtocol.swift */,
+				EC0442F529BB060B001425BC /* MLPlayerConfig.swift */,
+				EC0442F629BB060B001425BC /* MLPlayerButtonView.swift */,
+				EC0442F729BB060B001425BC /* MLRetryButton.swift */,
+			);
+			path = AudioPlayer;
 			sourceTree = "<group>";
 		};
 		EC3A2FCA29A4779200054035 = {
@@ -284,6 +324,7 @@
 		EC3A302229A4C0FE00054035 /* Extension */ = {
 			isa = PBXGroup;
 			children = (
+				EC0442EC29BB060B001425BC /* AudioPlayer */,
 				EC296B5B29AC3F7300B3FD6B /* TextViewAutoHeight.swift */,
 				EC3A302329A4C13400054035 /* Alamofire+Synchronous.swift */,
 				EC296B6329AE10A100B3FD6B /* String+Localized.swift */,
@@ -538,14 +579,25 @@
 				ECC37F8029A8808A004BC090 /* EssayData.swift in Sources */,
 				ECC37F7329A7A315004BC090 /* CreateDailyViewController.swift in Sources */,
 				EC296B5E29AC6CBA00B3FD6B /* ReviewViewController.swift in Sources */,
+				EC04430229BB060B001425BC /* MLRetryButton.swift in Sources */,
 				EC296B6029AC7E6D00B3FD6B /* ReadRecordData.swift in Sources */,
+				EC0442FF29BB060B001425BC /* MLAudioPlayerProtocol.swift in Sources */,
 				EC3A302B29A4DA5B00054035 /* LoginViewController.swift in Sources */,
+				EC0442FD29BB060B001425BC /* ViewConfiguration.swift in Sources */,
+				EC0442FE29BB060B001425BC /* MLTrackPlayerView.swift in Sources */,
 				EC3A301C29A490F400054035 /* RecordManager.swift in Sources */,
 				EC3A301829A48AF700054035 /* DailyContentTableViewCell.swift in Sources */,
 				ECC29F3929AE28A80066992F /* LookOverViewController.swift in Sources */,
+				EC0442FC29BB060B001425BC /* MLAudioPlayerManager.swift in Sources */,
+				EC0442F929BB060B001425BC /* MLGlobalAnimations.swift in Sources */,
+				EC04430029BB060B001425BC /* MLPlayerConfig.swift in Sources */,
+				EC0442FB29BB060B001425BC /* UIColor+Hex.swift in Sources */,
 				EC296B5C29AC3F7300B3FD6B /* TextViewAutoHeight.swift in Sources */,
+				EC04430129BB060B001425BC /* MLPlayerButtonView.swift in Sources */,
 				EC3A302429A4C13400054035 /* Alamofire+Synchronous.swift in Sources */,
+				EC0442F829BB060B001425BC /* MLLabel.swift in Sources */,
 				EC3A302129A4BE5E00054035 /* NetworkManager.swift in Sources */,
+				EC0442FA29BB060B001425BC /* MLAudioPlayer.swift in Sources */,
 				EC3A301529A4861300054035 /* DailyContentViewController.swift in Sources */,
 				EC3A302D29A4E1C200054035 /* RegisterViewController.swift in Sources */,
 				EC3A2FD729A4779200054035 /* AppDelegate.swift in Sources */,

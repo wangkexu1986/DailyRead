@@ -6,7 +6,6 @@ target 'DailyRead' do
   use_frameworks!
   pod 'Alamofire', '4.7.3'
   pod 'ProgressHUD'
-  pod 'MLAudioPlayer', '~> 1.2.1'
   pod 'PullToRefreshKit'
 
   # Pods for DailyRead

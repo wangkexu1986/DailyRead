@@ -193,7 +193,8 @@ class NetworkManager {
   }
   
   private class func getUrl(url: String) -> String {
-    return "http://43.143.194.140:3000" + url
+    return "http://127.0.0.1:3000" + url
+//      return "http://43.143.194.140:3000" + url
   }
 }
 
