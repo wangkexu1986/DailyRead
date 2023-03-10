@@ -1,0 +1,129 @@
+
+DailyRead.xcworkspace/contents.xcworkspacedata
+Podfile.lock
+Pods/Alamofire/LICENSE
+Pods/Alamofire/README.md
+Pods/Alamofire/Source/AFError.swift
+Pods/Alamofire/Source/Alamofire.swift
+Pods/Alamofire/Source/DispatchQueue+Alamofire.swift
+Pods/Alamofire/Source/MultipartFormData.swift
+Pods/Alamofire/Source/NetworkReachabilityManager.swift
+Pods/Alamofire/Source/Notifications.swift
+Pods/Alamofire/Source/ParameterEncoding.swift
+Pods/Alamofire/Source/Request.swift
+Pods/Alamofire/Source/Response.swift
+Pods/Alamofire/Source/ResponseSerialization.swift
+Pods/Alamofire/Source/Result.swift
+Pods/Alamofire/Source/ServerTrustPolicy.swift
+Pods/Alamofire/Source/SessionDelegate.swift
+Pods/Alamofire/Source/SessionManager.swift
+Pods/Alamofire/Source/TaskDelegate.swift
+Pods/Alamofire/Source/Timeline.swift
+Pods/Alamofire/Source/Validation.swift
+Pods/Manifest.lock
+Pods/MLAudioPlayer/LICENSE
+Pods/MLAudioPlayer/Readme.md
+Pods/MLAudioPlayer/Sources/Core/MLAudioPlayer.swift
+Pods/MLAudioPlayer/Sources/Core/MLAudioPlayerManager.swift
+Pods/MLAudioPlayer/Sources/Core/MLAudioPlayerProtocol.swift
+Pods/MLAudioPlayer/Sources/Core/MLGlobalAnimations.swift
+Pods/MLAudioPlayer/Sources/Core/MLLabel.swift
+Pods/MLAudioPlayer/Sources/Core/MLPlayerButtonView.swift
+Pods/MLAudioPlayer/Sources/Core/MLPlayerConfig.swift
+Pods/MLAudioPlayer/Sources/Core/MLRetryButton.swift
+Pods/MLAudioPlayer/Sources/Core/MLTrackPlayerView.swift
+Pods/MLAudioPlayer/Sources/Core/UIColor+Hex.swift
+Pods/MLAudioPlayer/Sources/Core/ViewConfiguration.swift
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/wangkexu.xcuserdatad/xcschemes/Alamofire.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/wangkexu.xcuserdatad/xcschemes/MLAudioPlayer.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/wangkexu.xcuserdatad/xcschemes/Pods-DailyRead-DailyReadUITests.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/wangkexu.xcuserdatad/xcschemes/Pods-DailyRead.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/wangkexu.xcuserdatad/xcschemes/Pods-DailyReadTests.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/wangkexu.xcuserdatad/xcschemes/ProgressHUD.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/wangkexu.xcuserdatad/xcschemes/PullToRefreshKit.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/wangkexu.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/ProgressHUD/LICENSE
+Pods/ProgressHUD/ProgressHUD/Sources/ProgressHUD.swift
+Pods/ProgressHUD/README.md
+Pods/PullToRefreshKit/LICENSE
+Pods/PullToRefreshKit/README.md
+Pods/PullToRefreshKit/Source/Assets/arrow_down@3x.png
+Pods/PullToRefreshKit/Source/Assets/arrow_left@3x.png
+Pods/PullToRefreshKit/Source/Assets/arrow_right@3x.png
+Pods/PullToRefreshKit/Source/Assets/Base.lproj/Localize.strings
+Pods/PullToRefreshKit/Source/Assets/en.lproj/Localize.strings
+Pods/PullToRefreshKit/Source/Assets/failure@3x.png
+Pods/PullToRefreshKit/Source/Assets/success@3x.png
+Pods/PullToRefreshKit/Source/Assets/zh-Hans.lproj/Localize.strings
+Pods/PullToRefreshKit/Source/Classes/Availability.swift
+Pods/PullToRefreshKit/Source/Classes/ElasticRefreshControl.swift
+Pods/PullToRefreshKit/Source/Classes/ElasticRefreshHeader.swift
+Pods/PullToRefreshKit/Source/Classes/Footer.swift
+Pods/PullToRefreshKit/Source/Classes/Header.swift
+Pods/PullToRefreshKit/Source/Classes/Left.swift
+Pods/PullToRefreshKit/Source/Classes/PullToRefresh.swift
+Pods/PullToRefreshKit/Source/Classes/Right.swift
+Pods/PullToRefreshKit/Source/Classes/Utils.swift
+Pods/Target Support Files/Alamofire/Alamofire-dummy.m
+Pods/Target Support Files/Alamofire/Alamofire-Info.plist
+Pods/Target Support Files/Alamofire/Alamofire-prefix.pch
+Pods/Target Support Files/Alamofire/Alamofire-umbrella.h
+Pods/Target Support Files/Alamofire/Alamofire.debug.xcconfig
+Pods/Target Support Files/Alamofire/Alamofire.modulemap
+Pods/Target Support Files/Alamofire/Alamofire.release.xcconfig
+Pods/Target Support Files/MLAudioPlayer/MLAudioPlayer-dummy.m
+Pods/Target Support Files/MLAudioPlayer/MLAudioPlayer-Info.plist
+Pods/Target Support Files/MLAudioPlayer/MLAudioPlayer-prefix.pch
+Pods/Target Support Files/MLAudioPlayer/MLAudioPlayer-umbrella.h
+Pods/Target Support Files/MLAudioPlayer/MLAudioPlayer.debug.xcconfig
+Pods/Target Support Files/MLAudioPlayer/MLAudioPlayer.modulemap
+Pods/Target Support Files/MLAudioPlayer/MLAudioPlayer.release.xcconfig
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests-acknowledgements.markdown
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests-acknowledgements.plist
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests-dummy.m
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests-frameworks-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests-frameworks-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests-frameworks-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests-frameworks-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests-frameworks.sh
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests-Info.plist
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests-umbrella.h
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests.debug.xcconfig
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests.modulemap
+Pods/Target Support Files/Pods-DailyRead-DailyReadUITests/Pods-DailyRead-DailyReadUITests.release.xcconfig
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead-acknowledgements.markdown
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead-acknowledgements.plist
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead-dummy.m
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead-frameworks-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead-frameworks-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead-frameworks-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead-frameworks-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead-frameworks.sh
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead-Info.plist
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead-umbrella.h
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead.debug.xcconfig
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead.modulemap
+Pods/Target Support Files/Pods-DailyRead/Pods-DailyRead.release.xcconfig
+Pods/Target Support Files/Pods-DailyReadTests/Pods-DailyReadTests-acknowledgements.markdown
+Pods/Target Support Files/Pods-DailyReadTests/Pods-DailyReadTests-acknowledgements.plist
+Pods/Target Support Files/Pods-DailyReadTests/Pods-DailyReadTests-dummy.m
+Pods/Target Support Files/Pods-DailyReadTests/Pods-DailyReadTests-Info.plist
+Pods/Target Support Files/Pods-DailyReadTests/Pods-DailyReadTests-umbrella.h
+Pods/Target Support Files/Pods-DailyReadTests/Pods-DailyReadTests.debug.xcconfig
+Pods/Target Support Files/Pods-DailyReadTests/Pods-DailyReadTests.modulemap
+Pods/Target Support Files/Pods-DailyReadTests/Pods-DailyReadTests.release.xcconfig
+Pods/Target Support Files/ProgressHUD/ProgressHUD-dummy.m
+Pods/Target Support Files/ProgressHUD/ProgressHUD-Info.plist
+Pods/Target Support Files/ProgressHUD/ProgressHUD-prefix.pch
+Pods/Target Support Files/ProgressHUD/ProgressHUD-umbrella.h
+Pods/Target Support Files/ProgressHUD/ProgressHUD.debug.xcconfig
+Pods/Target Support Files/ProgressHUD/ProgressHUD.modulemap
+Pods/Target Support Files/ProgressHUD/ProgressHUD.release.xcconfig
+Pods/Target Support Files/PullToRefreshKit/PullToRefreshKit-dummy.m
+Pods/Target Support Files/PullToRefreshKit/PullToRefreshKit-Info.plist
+Pods/Target Support Files/PullToRefreshKit/PullToRefreshKit-prefix.pch
+Pods/Target Support Files/PullToRefreshKit/PullToRefreshKit-umbrella.h
+Pods/Target Support Files/PullToRefreshKit/PullToRefreshKit.debug.xcconfig
+Pods/Target Support Files/PullToRefreshKit/PullToRefreshKit.modulemap
+Pods/Target Support Files/PullToRefreshKit/PullToRefreshKit.release.xcconfig
